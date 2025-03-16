@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "nextjs-backend-learning",
   "private": true,
   "scripts": {
     "build": "turbo run build",
